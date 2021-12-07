@@ -1,0 +1,8 @@
+import java.awt.Graphics;
+import java.applet.Applet;
+public class HelloWorld extends Applet2
+{
+public void paint(Graphics g)3
+{
+g.drawString("Hello World!",20,20);4 }
+}
